@@ -11,5 +11,6 @@ Código y datos del Trabajo de Fin de Grado: "Análisis del comercio internacion
 - Generación de figuras
 
 Autor: María López Sánchez
+
 Universidad Rey Juan Carlos
 Curso 2025-2026
