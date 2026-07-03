@@ -12,5 +12,5 @@ Código y datos del Trabajo de Fin de Grado: "Análisis del comercio internacion
 
 Autor: María López Sánchez
 
-Universidad Rey Juan Carlos
+Universidad Rey Juan Carlos \n
 Curso 2025-2026
