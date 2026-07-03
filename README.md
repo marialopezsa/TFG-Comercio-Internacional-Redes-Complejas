@@ -5,6 +5,7 @@ Código y datos del Trabajo de Fin de Grado: "Análisis del comercio internacion
 
 - Construcción de la red a partir de los datos de UN Comtrade
 - Limpieza y depuración de los datos
+- Reducción de la dimensionalidad de la red
 - Cálculo de centralidades
 - Detección de comunidades mediante Louvain
 - Generación de figuras
