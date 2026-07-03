@@ -10,6 +10,6 @@ Código y datos del Trabajo de Fin de Grado: "Análisis del comercio internacion
 - Detección de comunidades mediante Louvain
 - Generación de figuras
 
-* Autor: María López Sánchez
-* Universidad Rey Juan Carlos,
+Autor: María López Sánchez  
+Universidad Rey Juan Carlos,
 Curso 2025-2026
